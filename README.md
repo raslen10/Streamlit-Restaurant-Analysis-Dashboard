@@ -25,12 +25,12 @@ The dashboard provides actionable insights for restaurant managers to optimize o
 ### Example Metrics:
 - **Average Order Amount**: `$25.50`
 - **Average Wait Time**: `15.2 minutes`
-- **Most Popular Cuisine**: `Italian`
+- **Most Popular Cuisine**: `American`
 
 ## How to Run the Dashboard
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourgithubusername/streamlit-restaurant-dashboard.git
+   git clone https://github.com/raslen10/streamlit-restaurant-dashboard.git
    ```
 2. Navigate to the project directory and install dependencies:
    ```bash
@@ -39,7 +39,7 @@ The dashboard provides actionable insights for restaurant managers to optimize o
    ```
 3. Run the Streamlit app:
    ```bash
-   streamlit run streamlit_dashboard.py
+   streamlit run Restaurent_dashboard.py
    ```
 4. Open the provided URL in your browser to access the dashboard.
 
