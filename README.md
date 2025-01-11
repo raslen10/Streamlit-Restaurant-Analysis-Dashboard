@@ -23,8 +23,8 @@ The dashboard provides actionable insights for restaurant managers to optimize o
 - It identifies patterns in wait times and payment preferences, enabling data-driven decision-making.
 
 ### Example Metrics:
-- **Average Order Amount**: `$25.50`
-- **Average Wait Time**: `15.2 minutes`
+- **Average Order Amount**: `$77.63`
+- **Average Wait Time**: `32.01 minutes`
 - **Most Popular Cuisine**: `American`
 
 ## How to Run the Dashboard
